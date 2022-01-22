@@ -1,75 +1,63 @@
 # Home
 
-Welcome to my little corner of the internet where I'll be stashing any and all information that may be useful to myself or others.
+Welcome to my little corner of the internet.
 
-These pages will eventually use a tagging system but for now they are using a heirarchy system.
+My goal is to easily share cool stuff and information with friends and family.
 
-For this reason, you will see some repeat pages below (such as [Vinyl](vinyl.md) under the topic [Music Mediums](music-mediums.md) as well as the topic [Collections](collections)).
-
-You can find past updates as well as upcoming plans on the [Changes](changes.md) page.
+If you happen to have read everything, or are just curious what I've been up to, all past updates will be tracked here:
+[Changes](changes.md)
 
 Enjoy!
 
 ### Pages
 
-[Media](media.md)
-
-* [Music](music.md)
-	* [Music Mediums](music-mediums.md)
+* [Media](media.md)
+	* [Music](music.md)
 		* [Vinyl](vinyl.md)
 		* [Marvis](marvis.md)
-* [Movies](movies.md)
-	* [Plex](plex.md)
-* [TV Shows](tv-shows.md)
-	* [Plex](plex.md)
-* [Books](books.md)
-	* [Coffee Table Books](coffee-table-books.md)
-* [Podcasts](podcasts.md)
-* [Articles](articles.md)
-* [Video Games](video-games.md)
+	* [Movies](movies.md)
+		* [Plex](plex.md)
+	* [TV Shows](tv-shows.md)
+		* [Plex](plex.md)
+	* [Books](books.md)
+	* [Podcasts](podcasts.md)
+	* [Articles](articles.md)
+	* [Video Games](video-games.md)
+	* [Art](art.md)
 
-[Recipes](recipes.md)
+* [IT](it.md)
+	* [Data Storage](data-stroage.md)
+	* [Apps](apps.md) 
 
-[Learning](learning.md)
+* [Learning](learning.md)
+	* [Languages](languages.md)
 
-* [Languages](languages.md)
+* [Productivity](productivity.md)
 
-[Productivity](productivity.md)
+* [Wellness](wellness.md)
 
-* [IT](id.md)
-	* [Data Storage](data-storage.md)
-* [Stationery](stationery.md)
-	* [Blackwing](blackwing.md)
+* [Recipes](recipes.md)
+
+* [Minimalism](minimalism.md)
+
+* [Collections](collections)
+	* [Vinyl](vinyl.md)
+	* [LEGO](lego.md)
+	* [Coins](coins.md)
+	* [UNO](uno.md)
 	* [Moleskine](moleskine.md)
+	* [Blackwing](blackwing.md)
+	* [Funko](funko.md)
+	* [Jerseys](jerseys.md)
 
-[Wellness](wellness.md)
+<!--	* [Bobbleheads](bobbleheads.md)-->
 
-[Minimalism](minimalism.md)
 
-* [LEGO](lego.md)
-* [Plex](plex.md)
+### Future
 
-[Collections](collections)
+My next big goal is to take this web site beyond simple text and pictures and slowly re-create the magic and fun of PC games from my childhood, creating alternative fun ways to browse the content.
 
-* [Vinyl](vinyl.md)
-* [LEGO](lego.md)
-* [UNO](uno.md)
-* [Moleskine](moleskine.md)
-* [Coins](coins.md)
-	* [US Coins](us-coins.md)
-	* [Mexican Coins](mexican-coins.md)
-	* [Bullion](bullion.md)
-* [Blackwing](blackwing.md)
-* [Funko](funko.md)
-* [Jerseys](jerseys.md)
+In the meantime these pages are displayed using a heirachy system. For this reasons you'll notice some repeat pages above, such as [Vinyl](vinyl.md) as a medium of [Music](music.md) as well as one of my [Collections](collections).
 
-[Apps](apps.md)
-
-* [Marvis](marvis.md)
-* [Plex](plex.md)
-
-[Career](career.md)
-
-[Changes](changes.md)
 
 
