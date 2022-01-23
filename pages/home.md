@@ -26,7 +26,7 @@ Enjoy!
 	* [Art](art.md) 🚧
 
 * [IT](it.md) 🚧
-	* [Data Storage](data-stroage.md) 🚧
+	* [Data Storage](data-storage.md) 🚧
 	* [Apps](apps.md) 🚧
 
 * [Learning](learning.md) 🚧
@@ -40,7 +40,7 @@ Enjoy!
 
 * [Minimalism](minimalism.md) 🚧
 
-* [Collections](collections) 🚧
+* [Collections](collections.md) 🚧
 	* [Vinyl](vinyl.md) 🚧
 	* [LEGO](lego.md) 🚧
 	* [Coins](coins.md) 🚧
