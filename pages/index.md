@@ -46,7 +46,7 @@ Enjoy!
 	* [Coins](coins.md) 🚧
 	* [UNO](uno.md) 🚧
 	* [Moleskine](moleskine.md) 🚧
-	* [Blackwing](blackwing.md) 🚧
+	* [Blackwing](blackwing/index.md) 🚧
 	* [Funko](funko.md) 🚧
 	* [Jerseys](jerseys.md) 🚧
 
