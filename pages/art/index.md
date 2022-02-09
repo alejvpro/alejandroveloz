@@ -8,28 +8,33 @@ This section is for the more traditional definitions of art like painting and sc
 
 Creators I follow
 
-Lebo Art
+[Lebo Art](https://www.leboart.com/)
 
-* paintings
-* mineral prints
-* jewelry
-* some 3d
-* pillows/etc
+* Paintings
+* Mineral prints
+* Jewelry
+* Pillows/blankets
 
-	
-Elena Kazi
+[Elena Kazi](https://www.elenakazi.com/)
 
-* hand-painted boom boxes
-* sticker art
+* Hand-painted boom boxes
+* Sticker art
 
-Concrete Jungle
+[Concrete Jungle Studio](https://concretejunglestudio.com/) (Steven Cartoccio)
 
-* sculpltures
+* Sculptures
+	* I like their Wu Tang ones
 
 ## 2D Art
 
-More traditional
+More traditional:
 
-Thai Harry Potter covers
+* Thai Harry Potter covers
+	* [Harry Potter Thai 20th Anniversary](https://www.wizardingworld.com/news/stunning-new-illustrated-harry-potter-book-covers-unveiled-for-thailand-twentieth-anniversary)
+	* [Complete Thai Illustrations](https://www.artstation.com/artwork/JlAqVm)
 
-To fill in from my Art note and my hip hop collectible note
+## Video Content?
+
+Video content that doesn't fit into other pages (yet)
+
+* [The Company Man](https://www.youtube.com/channel/UCMF7C3hqyVA4bvTb0x0cdHw)

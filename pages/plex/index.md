@@ -1,9 +1,17 @@
 # Plex
 
-Brief overview
+[Plex](https://www.plex.tv/) is a system of apps that lets you watch your own Movie and TV files from any device.
 
-The settings I use
+_It also lets you add Music and Photos but I don't use those use cases_
 
+You put your files on an internet-connected computer, and your phones, computers, smart TV's, Apple TV's, Firesticks, etc, can watch them
+
+TODO: explain more and link to how to set it up.
+
+TODO: include the guide you made once before on preparing your media
+
+
+# Miscellaneous unorganized notes
 
 ## Server
 
@@ -89,7 +97,10 @@ Ok so next step is learning about SSH tunneling
 
 ## Getting Media
 
-youtube-dl
+
+[youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
+(it may be worth checking out this too https://github.com/yt-dlp/yt-dlp)
 
 Full Channel Command:
 youtube-dl —format bestvideo+bestaudio/best —download-archive archive.txt —merge-output-format mp4 —ignore-errors —all-subs —embed-subs —add-metadata —write-thumbnail —write-annotations —write-info-json  —write-description —output “%(uploader)s/%(upload_date)s %(title)s %(id)s.%(ext)s” —yes-playlist  [https://www.youtube.com/channel/UCUEtRQBZXbZDRCBCt_Cc3Zg](https://www.youtube.com/channel/UCUEtRQBZXbZDRCBCt_Cc3Zg) 

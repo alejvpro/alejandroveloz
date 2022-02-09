@@ -6,7 +6,7 @@
 
 ### Essential albums
 
-Surf, Gaida, Pieces of a Man, Telefone, Gaida, Care For Me, + more
+Surf, Gaida, Pieces of a Man, Telefone, Gaida, Care For Me, + more to come
 
 
 ### All the albums I've rated on alej.hiphop
@@ -18,20 +18,18 @@ I posted my [Top 10's of 2020](http://www.alej.hiphop/2021/01/01/2020-top-10s/) 
 See the end of this page for all the albums I keep MP3s of
 
 
-## Methods of listening
+## Digital Listening
 
+### Last.FM
 
-# Music Mediums
+I use [Last.FM](https://www.last.fm/) to track my listens
 
+* Analytics on your music listening
+* It misses physical listening but that’s ok
 
-## Digital
+### Apple Music
 
-#### Last.FM
-
-* Analytics
-* Misses physical listening but that’s ok
-
-#### Apple Music
+I use Apple Music to listen. The primary reason is that it allows rating songs, editing metadata, and uploading your own MP3s
 
 * Ratings and MP3s 
 * Ratings
@@ -41,37 +39,33 @@ See the end of this page for all the albums I keep MP3s of
 
 #### Marvis
 
-[Marvis](marvis.md)
-
-* Music + Marvis
+I use [Marvis](/pages/marvis/index.md) app to take advantage of the aforementioned ratings and metadata.
 
 
 
-## Analog
+## Analog Listening
 
-####
+### Vinyl
 
-[Vinyl](vinyl.md)
-
-
-* Culture around it
-	* Record Store Day
-* Discogs is cool for that (in particular, share a couple lists)
-	* Box Sets in [[Hip Hop Collectibles 💽 🔗]]
-	* Favorite cover + vinyls???
-	* Most interesting “rare” records???
-
-####
-
-* Coasters + LEGO
-	* Unbounded by vinyl availability/price, and dedicated to cover appreciation
+See all about it here: [Vinyl](/pages/vinyl/index.md)
 
 
+### Psuedo Analog
+
+I like creating physical representations of music and using those to physically explore and decide what to listen to
+
+I create small LEGO covers.
+
+I create larger drinking coasters. I like using these to appreciate my favorite covers, very similar to vinyl. However unlike vinyl, they take up less space, and they're not bounded by availability/price.
 
 
 # All the albums I keep MP3s of
 
-For my car USB player, and for post-streaming.
+Continued from above, here are all the albums I keep MP3s of
+
+I keep them in MP3 form for my car USB player
+
+I also like having them for when I eventually check out of the streaming age and keep my own "owned" media
 
 	- Ugh, those feels again
 	1999
