@@ -27,17 +27,8 @@ However for me those can often become consuming and sometimes more effort goes i
 
 For that reason, sometimes I like to take things offline.
 
-### Charms
+That's when I like to appreciate the stationery I use, like:
 
-I have a note full of lists of my favorite creative hobbies and ways to spend time: reading, writing, making music, biking, etc.
+* [Moleskine](/pages/moleskine/index.md)
+* [Blackwing](/pages/blackwing/index.md)
 
-However on days when I go offline, sometimes I still want a "list" of recommendations to do next with my free time (on the days when I'm so lucky to have it)
-
-For that, I've got some of these great mini tiny little "floating locket charms" as they're called.
-
-TODO: add photo
-
-So sometimes I look to this (repurposed pill) case for inspiration and take my day take me towards whichever charm I pull out :)
-
-
-<!--They are detailed in an iOS Notes app btw-->
