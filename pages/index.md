@@ -51,6 +51,9 @@ Enjoy!
 	* [Funko](/pages/funko/index.md)
 	* [Jerseys](/pages/jerseys/index.md)
 
+* [Hobbies](/pages/hobbies/index.md)
+	* [Beat Making](/pages/beat-making/index.md)
+
 <!--	* [Bobbleheads](/pages/bobbleheads/index.md) -->
 
 <!--* [Career](/pages/career/index.md) -->
