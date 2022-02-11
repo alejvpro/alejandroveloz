@@ -18,6 +18,18 @@ I posted my [Top 10's of 2020](http://www.alej.hiphop/2021/01/01/2020-top-10s/) 
 See the end of this page for all the albums I keep MP3s of
 
 
+## Curation
+
+With so much music it is HARD to keep up with all of it.
+
+I enjoy using many "updated weekly" playlists on streaming services, however I value the "human connection" of a curator as well. There's a big difference between the next song starting on a playlist and a DJ introducing the song with some context.
+
+Peter Rosenberg (who is 1/2 of the Juan Ep podcast duo that I shout out on my [Podcasts](/pages/podcasts/index.md) page) also hosts a dope weekly 2am rappity-rap hip-hop show on Hot 97. He uploads them to his [Mixcloud](https://www.mixcloud.com/Rosenbergradio/).
+
+I also love much of the content and curation (including a weekly [Roundup](https://open.spotify.com/playlist/0lXnoKdWejjer3S3xfiOex?si=0f4ba5a98f95485f) playlist on Spotify) from [Okayplayer](https://www.okayplayer.com/). Here's some [background](https://en.wikipedia.org/wiki/Okayplayer) on Okayplayer.
+
+More to come...
+
 ## Digital Listening
 
 ### Last.FM

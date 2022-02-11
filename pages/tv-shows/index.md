@@ -3,20 +3,24 @@
 
 ## Recommendations
 
-I'll be trying to avoid adding too many universally acclaimed or super popular items here. I enjoy most of those and most people probably know them already.
+These won't necessarily be my top 10 TV shows, but they will be TV shows I either have something to say about or that I think deserve an extra nudge in recommendation if you haven't seen them. Even though I love many of them, I usually won't include universally praised or known shows like The Wire, Breaking Bad, Game of Thrones, etc. There's not much more to add to the conversation that hasn't been said.
 
-#### Atlanta
+#### Unearthed
+Also mentioned in [Learning](/pages/learning/index.md))
 
-#### Columbo
-
-#### Community
+#### Better Call Saul
 
 #### Superstore
 
 #### The Good Place
 
-#### Unearthed
-Also mentioned in [Learning](/pages/learning/index.md))
+#### Atlanta
+
+#### Brooklyn Nine Nine
+
+#### Community
+
+#### Columbo
 
 
 ## Methods
