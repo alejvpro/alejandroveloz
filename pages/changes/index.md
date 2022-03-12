@@ -21,7 +21,7 @@ Edit and add more prose to the existing content.
 ### Microsites
 *Progressively create micro-sites which go in-depth on specific topics*
 
-[History](/pages/history/index.md) Egyptian Timeline 🪲
+[History](/pages/history/index.md) Egyptian Timeline Map 🪲
 
 * Interactive map and timeline
 
