@@ -57,6 +57,27 @@ I use [Marvis](/pages/marvis/index.md) app to take advantage of the aforemention
 
 ## Analog Listening
 
+Consider this section under construction! I've recently been re-thinking the way I keep or "own" music. Here's my Summer 2022 work-in-progress update:
+
+Music is great?
+* MP3
+* LEGO
+
+Music is AMAZING?
+* CD
+
+Cover is AMAZING?
+* Coaster
+
+Music x Cover x Vinyl = AMAZING?
+* Vinyl
+
+Music x Cover x Cassette = AMAZING?
+* Cassette
+
+Overall updates to come soon!
+
+
 ### Vinyl
 
 See all about it here: [Vinyl](/pages/vinyl/index.md)
