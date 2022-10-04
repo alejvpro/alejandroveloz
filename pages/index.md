@@ -53,6 +53,7 @@ Enjoy!
 
 * [Hobbies](/pages/hobbies/index.md)
 	* [Beat Making](/pages/beat-making/index.md)
+	* [Projects](/pages/projects/index.md)
 
 <!--	* [Bobbleheads](/pages/bobbleheads/index.md) -->
 
