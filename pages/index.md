@@ -4,6 +4,28 @@ Welcome to my little corner of the internet.
 
 My goal is to easily share cool stuff and information with friends and family.
 
+Here's my 60 second summary of the site!
+
+* Backup your data!
+	* Have at least 2 copies of all your data
+	* Having them in different physical locations is even better
+	* Data loss occurs when you least expect it 
+* Shows I'm watching:
+	* Grand Crew on NBC
+	* Ghosts on CBS
+	* Andor on Disney+
+* Albums to listen to (most recent first):
+	* [Overture](https://album.link/us/i/1522543313) (2020) [R&B] by Gaidaa featuring Saba
+	* [Care For Me](https://album.link/i/1365784239) (2018) [Hip-Hop] by Saba
+	* [FEELS](https://album.link/i/1476701591) (2017) [R&B] by Snoh Aalegra
+	* [99.9%](https://album.link/i/1092026376) (2016) [Electronic, Hip-Hop, Alternative R&B] by Kaytranada
+	* [Koi Child](https://album.link/i/1071760915) (2016) [Hip-Hop, Jazz] by Koi Child
+	* [Telefone](https://album.link/us/i/1146038117) (2016) [Hip-Hop, Neo-Soul] by Noname
+	* [Surf](https://album.link/i/998076113) (2015) [Hip-Hop, Neo-Soul, R&B] by Donnie Trumpet, Chance the Rapper
+	* [A Place Like This](https://album.link/i/894246532) (2014) [Alternative R&B] by Majid Jordan
+	* [How I Got Over](https://album.link/us/i/1440733756) (2010) [Hip-Hop] by The Roots
+
+
 If you happen to have read everything, or are just curious what I've been up to, all past updates will be tracked here:
 [Changes](/pages/changes/index.md)
 
@@ -64,7 +86,7 @@ Enjoy!
 
 My next big goal is to take this web site beyond simple text and pictures and slowly re-create the magic and fun of PC games from my childhood, creating alternative fun ways to browse the content.
 
-In the meantime these pages are displayed using a heirachy system. For this reasons you'll notice some repeat pages above, such as [Vinyl](/pagesvinyl/index.md) as a medium of [Music](/pagesmusic/index.md) as well as one of my [Collections](/pagescollections/index.md).
+In the meantime these pages are displayed using a heirachy system. For this reasons you'll notice some repeat pages above, such as [Vinyl](/pages/vinyl/index.md) as a medium of [Music](/pagesmusic/index.md) as well as one of my [Collections](/pages/collections/index.md).
 
 
 
